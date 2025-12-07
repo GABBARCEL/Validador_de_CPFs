@@ -22,6 +22,7 @@ while True:
         validacao = vereficar(CPF)
         if validacao:
             print(f"O CPF {CPF}. É Válido!")
+            break
         else:
             print(f"O CPF {CPF}. É Inválido!")
 
