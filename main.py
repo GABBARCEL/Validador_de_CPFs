@@ -1,4 +1,4 @@
-from customtkinter import *
+from customtkinter import CTk, set_appearance_mode, CTkLabel, CTkEntry, CTkButton
 import functions as fnc
 # import tkinter
 
